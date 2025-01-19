@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-I'm a passionate developer interested in creating unique projects to learn from.
+I'm a passionate developer who is always on a journey to create unique projects and learn from my experiences along the way. Here's a glimpse of my skill set and what I love working on:
 ### Skills
 
 - **Python**: Crafting efficient and dynamic scripts 🐍
@@ -9,4 +9,3 @@ I'm a passionate developer interested in creating unique projects to learn from.
 - **PlatformIO**: Utilizing an integrated development environment for embedded systems ⚙️
 - **ESP32**: Developing IoT applications with ESP32 microcontrollers 🌐
 - **C++**: Writing robust and efficient code 💻
-- **HTML & CSS**: Designing and styling web pages 🌐🎨
