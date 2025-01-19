@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-I'm a passionate developer interested in creating unique projects from which to learn.
+I'm a passionate developer interested in creating unique projects to learn from.
 ### Skills
 
 - **Python**: Crafting efficient and dynamic scripts 🐍
