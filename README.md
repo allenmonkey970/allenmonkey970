@@ -4,7 +4,7 @@ I'm a high school student who is always on a journey to create unique projects a
 
 ### Skills
 
-- **Python**: Crafting efficient and dynamic scripts 🐍
+- **Python**: Crafting unique and fun projects with 🐍
 - **Linux**: Navigating and managing Linux environments 🐧
 - **Arduino**: Building and programming electronic projects 🤖
 - **PlatformIO**: Utilizing an integrated development environment for embedded systems ⚙️
