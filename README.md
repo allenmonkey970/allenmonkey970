@@ -16,7 +16,3 @@ I'm a high school student who is always on a journey to create unique projects a
 - 🔧 Currently, I'm diving deep into learning how to operate ESP32 microcontrollers.
 - 🎓 I'm enrolled at Colorado Mesa University as a concurrent student, balancing high school and college courses.
 - 🎯 My goal is to learn the way of programming :D
-
-### Connect with Me
-
-- 📧 Email: Anthonyzolmora@outlook.com
