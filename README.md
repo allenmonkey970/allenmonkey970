@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌟
 
-I'm a high school student who is always on a journey to create unique projects and learn from my experiences along the way. Here's a glimpse of my skill set and what I love working on:
+I'm a high school student who is just wanting to create unique projects and learn from my experiences along the way. Here's a glimpse of my skill set and what I love working on:
 
 ### Skills
 
