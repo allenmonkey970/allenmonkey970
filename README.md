@@ -11,8 +11,9 @@ I'm a high school student who is just wanting to create unique projects and lear
 - **ESP32**: Developing IoT applications with ESP32 microcontrollers 🌐
 - **C++**: Writing robust and efficient code 💻
 
-## About Me
+### About Me
 
-- 🔧 Currently, I'm diving deep into learning how to operate ESP32 microcontrollers.
-- 🎓 I'm enrolled at Colorado Mesa University as a concurrent student, balancing high school and college courses.
-- 🎯 My goal is to learn the way of programming :D
+- 🔧 **Current Project**: I'm deep diving into learning how to operate ESP32 microcontrollers.
+- 🎓 **Education**: Concurrent student at Colorado Mesa University, managing the balance between high school and college courses.
+- 🎯 **Aspirations**: My goal  is to learn the art of programming :D
+- 📚 **Experience**: Interned at my high school and contributed to the development and maintenance of their website using HTML, CSS and their local software.
