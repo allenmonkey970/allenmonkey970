@@ -15,7 +15,7 @@ I'm a high school student who is just wanting to create unique projects and lear
 
 ### About Me
 
-- 🔧 **Current Project**: I'm creating a game using c++.
+- 🔧 **Current Project**: I'm creating a network tool using Python.
 - 🎓 **Education**: Concurrent student at Colorado Mesa University, balancing high school and college courses.
 - 🎯 **Aspirations**: My goal is to learn the art of programming :D
 - 📚 **Experience**: Interned at my high school and contributed to developing and maintaining their website using HTML, CSS, and their local software.
