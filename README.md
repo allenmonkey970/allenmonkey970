@@ -1,21 +1,47 @@
-<img src="https://github.com/allenmonkey970/allenmonkey970/blob/main/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" width=70% height=70%>
+<div align="center">
+  <img src="https://github.com/allenmonkey970/allenmonkey970/blob/main/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" width="70%" height="70%">
+  <h1>Welcome to My GitHub Profile! 🌟</h1>
+  <p>High School Programmer | College Student | Cybersecurity Researcher</p>
+</div>
 
+I'm a high school student passionate about creating unique projects and learning from my experiences along the way. My journey is focused on exploring technology and building practical skills.
 
-# Welcome to My GitHub Profile! 🌟
+## 💻 Skills & Technologies
 
-I'm a high school student who is just wanting to create unique projects and learn from my experiences along the way. Here's a glimpse of my skill set and what I love working on:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=for-the-badge&logo=platformio&logoColor=white)
 
-### Skills
 - **C++**: Writing fast and efficient code 💻
-- **Python**: Creating unique and fun projects with 🐍
-- **Linux**: Navigating Linux and running a personal server with 🐧
+- **Python**: Creating unique and fun projects 🐍
+- **Linux**: Navigating Linux and running a personal server 🐧
 - **Arduino**: Building and programming electronic projects 🤖
-- **PlatformIO**: Utilizing an integrated development environment for embedded systems ⚙️
-- **ESP32**: Developing IoT applications with ESP32 microcontrollers 🌐
+- **PlatformIO**: Development environment for embedded systems ⚙️
+- **ESP32**: Developing IoT applications with microcontrollers 🌐
 
-### About Me
+## 📊 GitHub Stats
 
-- 🔧 **Current Project**: I'm creating a Pacman Ai.
-- 🎓 **Education**: Concurrent student at Colorado Mesa University, balancing high school and college courses.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmonkey970&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenmonkey970&theme=dark" alt="GitHub Streak" />
+</div>
+
+## I'm currently exploring:
+- Advanced algorithms in C++
+- Machine learning concepts
+
+### Next on my list:
+- Cybersecurity
+
+## 👨‍💻 About Me
+
+- 🎓 **Education**: Concurrent student at Colorado Mesa University, balancing high school and college courses
 - 🎯 **Aspirations**: My goal is to learn the art of programming :D
-- 📚 **Experience**: Interned at my high school and contributed to developing and maintaining their website using HTML, CSS, and their local software.
+- 📚 **Experience**: Interned at my high school and contributed to developing and maintaining their website using HTML, CSS, and their local software
+
+## 🤝 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenmonkey970)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ajmora@mavs.coloradomesa.edu)
