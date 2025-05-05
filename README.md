@@ -30,7 +30,7 @@ I'm a high school student passionate about creating unique projects and learning
 </div>
 
 ## I'm currently exploring:
-- Advanced algorithms in C++
+- Advanced algorithms in Python
 - Machine learning concepts
 
 ### Next on my list:
