@@ -26,7 +26,7 @@ I'm a high school student passionate about creating unique projects and learning
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmonkey970&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenmonkey970&theme=dark" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=allenmonkey970&theme=dark" alt="GitHub Streak" />
 </div>
 
 ## I'm currently exploring:
