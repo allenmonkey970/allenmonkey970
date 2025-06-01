@@ -22,13 +22,6 @@ I'm a high school student passionate about creating unique projects and learning
 - **PlatformIO**: Development environment for embedded systems ⚙️
 - **ESP32**: Developing IoT applications with microcontrollers 🌐
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenmonkey970&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=allenmonkey970&theme=dark" alt="GitHub Streak" />
-</div>
-
 ## I'm currently exploring:
 - Advanced algorithms in Python
 - Machine learning concepts
