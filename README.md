@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/allenmonkey970/allenmonkey970/blob/main/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" width="70%" height="70%">
+  <img src="https://github.com/allenmonkey970/allenmonkey970/blob/main/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" width="70%" height="180%">
   <h1>Anthony Mora</h1>
   <p>High School Programmer | College Student | Cybersecurity Researcher</p>
 </div>
-
 I'm a high school student wanting to focus on exploring technology and building practical skills.
 
 ## 💻 Skills & Technologies
