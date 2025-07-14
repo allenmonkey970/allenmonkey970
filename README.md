@@ -4,7 +4,7 @@
   <p>High School Programmer | College Student | Cybersecurity Researcher</p>
 </div>
 
-I'm a high school student passionate about creating unique projects and learning from my experiences along the way. My journey is focused on exploring technology and building practical skills.
+I'm a high school student wanting to focus on exploring technology and building practical skills.
 
 ## 💻 Skills & Technologies
 
@@ -17,9 +17,7 @@ I'm a high school student passionate about creating unique projects and learning
 
 - **C++**: Writing fast and efficient code 💻
 - **Python**: Creating unique and fun projects 🐍
-- **Linux**: Navigating Linux and running a personal server 🐧
-- **Arduino**: Building and programming electronic projects 🤖
-- **PlatformIO**: Development environment for embedded systems ⚙️
+- **Linux**:  Running a personal server for performance🐧
 - **ESP32**: Developing IoT applications with microcontrollers 🌐
 
 ## I'm currently exploring:
@@ -33,8 +31,7 @@ I'm a high school student passionate about creating unique projects and learning
 
 - 🎓 **Education**: Concurrent student at Colorado Mesa University, balancing high school and college courses
 - 🎯 **Aspirations**: My goal is to learn the art of programming :D
-- 📚 **Experience**: Interned at my high school and contributed to developing and maintaining their website using HTML, CSS, and their local software
+- 📚 **Experience**: Interned at my high school and contributed to developing and maintaining their website using HTML, CSS, and their local software, and now a researcher at Colorado Mesa University.
 
 ## 🤝 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenmonkey970)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ajmora@mavs.coloradomesa.edu)
