@@ -24,4 +24,4 @@ CS student at Colorado Mesa University (B.S. Computer Science, Cybersecurity Min
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anthonyzolmora@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://allenmonkey970.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://allenmonkey970.github.io/allenmonkey970/)
