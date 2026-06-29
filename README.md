@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/allenmonkey970/allenmonkey970/blob/main/df5uscm-3f16c5f4-c591-4168-bcd8-037911bbf732.gif" width="70%" height="180%">
   <h1>Anthony Mora</h1>
-  <p>Dual-Enrolled CS Student &nbsp;|&nbsp; QA Engineer &nbsp;|&nbsp; Cybersecurity Researcher &nbsp;|&nbsp; ML Developer</p>
+  <p>&nbsp; QA Engineer &nbsp;|&nbsp; Cybersecurity Researcher &nbsp;|&nbsp; ML Developer</p>
 </div>
 
 ## About
